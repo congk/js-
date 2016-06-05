@@ -1,0 +1,36 @@
+*{padding: 0; margin: 0;}
+
+body{
+    width: 100%;
+}
+header{
+    background-color: cadetblue;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+footer{
+    background-color: cadetblue;
+    height: 100px;
+    margin: 10px 0;
+}
+
+#container{
+    position: relative;
+    margin:0 auto;
+    min-height:100px;
+}
+
+.item{
+    position: absolute;
+	width: 200px;
+    padding: 5px;
+}
+
+.img{
+	display: block;
+	padding: 5px;
+	width: 90%;
+	height: auto;
+	border: 1px solid #CCC;
+}
