@@ -33,4 +33,5 @@ footer{
 	width: 90%;
 	height: auto;
 	border: 1px solid #CCC;
+    border-radius: 5px;
 }
